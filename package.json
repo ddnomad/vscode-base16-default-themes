@@ -14,6 +14,10 @@
     "type": "git",
     "url": "https://github.com/ddnomad/vscode-base16-default-themes.git"
   },
+  "homepage": "https://github.com/ddnomad/vscode-base16-default-themes#readme",
+  "bugs": {
+    "url": "https://github.com/ddnomad/vscode-base16-default-themes/issues"
+  },
   "engines": {
     "vscode": "^1.85.0"
   },
