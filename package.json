@@ -1,0 +1,39 @@
+{
+  "name": "vscode-base16-default-themes",
+  "displayName": "Base16 Default Themes",
+  "description": "Minimal, readable refinements of the Base16 Default Dark and Light themes.",
+  "version": "0.1.0",
+  "publisher": "ddnomad",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddnomad/vscode-base16-default-themes.git"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "base16",
+    "dark",
+    "light",
+    "minimal",
+    "theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Base16 Default Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/base16-default-dark-color-theme.json"
+      },
+      {
+        "label": "Base16 Default Light",
+        "uiTheme": "vs",
+        "path": "./themes/base16-default-light-color-theme.json"
+      }
+    ]
+  }
+}
