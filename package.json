@@ -4,6 +4,11 @@
   "description": "An opinionated, more minimal take on Base16 Default Dark and Light themes for VS Code",
   "version": "0.1.0",
   "publisher": "ddnomad",
+  "icon": "assets/icon.png",
+  "galleryBanner": {
+    "color": "#181818",
+    "theme": "dark"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
