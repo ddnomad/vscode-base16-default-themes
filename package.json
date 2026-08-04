@@ -1,7 +1,7 @@
 {
   "name": "vscode-base16-default-themes",
   "displayName": "Base16 Default Themes",
-  "description": "Minimal, readable refinements of the Base16 Default Dark and Light themes.",
+  "description": "An opinionated, more minimal take on Base16 Default Dark and Light themes for VS Code",
   "version": "0.1.0",
   "publisher": "ddnomad",
   "license": "MIT",
@@ -27,12 +27,12 @@
       {
         "label": "Base16 Default Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/base16-default-dark-color-theme.json"
+        "path": "./themes/base16-default-dark.json"
       },
       {
         "label": "Base16 Default Light",
         "uiTheme": "vs",
-        "path": "./themes/base16-default-light-color-theme.json"
+        "path": "./themes/base16-default-light.json"
       }
     ]
   }

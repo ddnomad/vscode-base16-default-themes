@@ -1,11 +1,11 @@
 # Base16 Default Themes
 
-Two restrained, readable VS Code themes based on Tinted Theming's Base16 Default themes:
+An opinionated, more minimal take on Base16 Default Dark and Light themes for VS Code.
+
+This extension provides the following themes:
 
 - **Base16 Default Dark**
 - **Base16 Default Light**
-
-The themes keep the original Base16 syntax palette while refining the workbench UI with quieter surfaces, clearer secondary text, consistent blue focus outlines, neutral selections, cleaner tabs, and matching structural separators.
 
 ## Development
 
