@@ -11,6 +11,13 @@ This extension provides the following themes:
 - **Base16 Default Dark**
 - **Base16 Default Light**
 
+Third-party Extension Support
+-----------------------------
+
+The themes also provide palette-aligned colours for the following third-party extensions:
+
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) — inline error, warning, information, and hint decorations, including line and message backgrounds and status bar indicators.
+
 Development
 -----------
 

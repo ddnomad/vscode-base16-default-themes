@@ -12,6 +12,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 - Shield badges in the README linking to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ddnomad.vscode-base16-default-themes) and [Open VSX](https://open-vsx.org/extension/ddnomad/vscode-base16-default-themes) extension listings.
 - Local packaging and installation commands for test-driving unpublished builds in Cursor or VS Code, alongside the live Extension Development Host preview workflow.
+- Palette-aligned colours for [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) diagnostics and status bar indicators in both themes.
 
 ### Fixed
 
