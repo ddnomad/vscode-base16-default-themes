@@ -8,9 +8,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 [Unreleased]
 ------------
 
-[0.1.0] - 2026-08-04
+### Added
+
+- Shield badges in the README linking to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ddnomad.vscode-base16-default-themes) and [Open VSX](https://open-vsx.org/extension/ddnomad/vscode-base16-default-themes) extension listings.
+
+[v0.1.0] - 2026-08-04
 --------------------
 
 Initial release.
 
-[0.1.0]: https://github.com/ddnomad/vscode-base16-default-themes/releases/tag/v0.1.0
+[v0.1.0]: https://github.com/ddnomad/vscode-base16-default-themes/releases/tag/v0.1.0

@@ -1,6 +1,9 @@
 Base16 Default Themes
 =====================
 
+[![VS Code Marketplace Version](https://vsmarketplacebadges.dev/version-short/ddnomad.vscode-base16-default-themes.svg?style=flat-square&logo=vscodium&logoColor=white&labelColor=0078d4&color=0078d4)](https://marketplace.visualstudio.com/items?itemName=ddnomad.vscode-base16-default-themes)
+[![Open VSX Version](https://img.shields.io/open-vsx/v/ddnomad/vscode-base16-default-themes?style=flat-square&logo=eclipseide&logoColor=white&label=Open%20VSX&labelColor=555&color=ea7233)](https://open-vsx.org/extension/ddnomad/vscode-base16-default-themes)
+
 An opinionated, more minimal take on Base16 Default Dark and Light themes for VS Code.
 
 This extension provides the following themes:
