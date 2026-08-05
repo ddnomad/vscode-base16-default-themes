@@ -82,7 +82,7 @@
     "sideBar.dropBackground": "#d8d8d86f",
     "sideBarTitle.foreground": "#383838",
     "sideBarSectionHeader.background": "#f8f8f8",
-    "sideBarSectionHeader.foreground": "#585858",
+    "sideBarSectionHeader.foreground": "#383838",
     "minimap.findMatchHighlight": "#f7ca886f",
     "minimap.selectionHighlight": "#d8d8d86f",
     "minimap.errorHighlight": "#ab4642",

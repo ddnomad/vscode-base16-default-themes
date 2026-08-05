@@ -11,6 +11,12 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Added
 
 - Shield badges in the README linking to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ddnomad.vscode-base16-default-themes) and [Open VSX](https://open-vsx.org/extension/ddnomad/vscode-base16-default-themes) extension listings.
+- Local packaging and installation commands for test-driving unpublished builds in Cursor or VS Code, alongside the live Extension Development Host preview workflow.
+
+### Fixed
+
+- Improved workspace section header contrast in both themes.
+- Improved inactive editor tab contrast in the dark theme, particularly in Cursor.
 
 [v0.1.0] - 2026-08-04
 --------------------

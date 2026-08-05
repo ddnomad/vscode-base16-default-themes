@@ -14,12 +14,43 @@ This extension provides the following themes:
 Development
 -----------
 
-Open this repository in VS Code and press `F5` to start an Extension Development Host. Then use **Preferences: Color Theme** to select either theme.
+Install the development dependencies once:
+
+```sh
+npm install
+```
+
+### Fast iteration
+
+Open this repository in VS Code or Cursor and press `F5` to start an Extension Development Host. Then use **Preferences: Color Theme** to select either theme. Changes to the theme files are applied live in the development host.
+
+### Local test drive
+
+To install the current working tree into Cursor without publishing or changing the extension version:
+
+```sh
+npm run install:cursor
+```
+
+For VS Code, use:
+
+```sh
+npm run install:vscode
+```
+
+These commands build `base16-default-themes-local.vsix` and force-install it over the currently installed copy. Reload the editor window after each install. Installing from a VSIX disables automatic updates for that extension, so the local build will remain installed during a longer test drive.
+
+To return to the public Cursor release, uninstall the local copy and reinstall by extension ID:
+
+```sh
+cursor --uninstall-extension ddnomad.vscode-base16-default-themes
+cursor --install-extension ddnomad.vscode-base16-default-themes
+```
 
 To create a VSIX package locally:
 
 ```sh
-npx @vscode/vsce package
+npm run package:local
 ```
 
 Release
