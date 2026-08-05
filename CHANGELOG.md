@@ -16,6 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Fixed
 
+- Reduced the visual prominence of inline type and parameter hints in both themes.
 - Improved workspace section header contrast in both themes.
 - Improved inactive editor tab contrast in the dark theme, particularly in Cursor.
 
