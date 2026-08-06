@@ -168,6 +168,8 @@
     "editorWarning.foreground": "#f7ca88",
     "editorInfo.foreground": "#86c1b9",
     "editorHint.foreground": "#7cafc2",
+    "sqltools.currentQueryBg": "#7cafc21f",
+    "sqltools.currentQueryOutline": "#7cafc240",
     "errorLens.errorBackground": "#ab464220",
     "errorLens.errorMessageBackground": "#ab464219",
     "errorLens.errorRangeBackground": "#ab464219",
