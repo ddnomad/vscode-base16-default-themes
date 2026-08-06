@@ -71,8 +71,8 @@ Releases are built automatically when a semver tag is pushed. The GitHub Actions
 4. Tag the release (the tag must match `package.json`, with a `v` prefix):
 
 ```sh
-git tag v0.1.0
-git push origin v0.1.0
+git tag vX.X.X
+git push origin vX.X.X
 ```
 
 The workflow runs on tags matching `v*.*.*` (for example `v0.1.0` or `v1.0.0-beta.1`). If the tag is not valid semver, or its version does not match `package.json`, the release fails.

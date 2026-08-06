@@ -2,7 +2,7 @@
   "name": "vscode-base16-default-themes",
   "displayName": "Base16 Default Themes",
   "description": "An opinionated, more minimal take on Base16 Default Dark and Light themes for VS Code",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publisher": "ddnomad",
   "icon": "assets/icon.png",
   "galleryBanner": {
