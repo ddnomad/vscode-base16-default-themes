@@ -16,6 +16,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 - Reorganised both theme definitions into matching, documented sections and aligned their supported workbench colour keys.
 
+### Fixed
+
+- Balanced dark-theme insertion and deletion backgrounds so changes remain equally prominent without obscuring muted syntax such as comments.
+
 [v0.1.1] - 2026-08-06
 --------------------
 

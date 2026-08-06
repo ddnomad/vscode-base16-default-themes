@@ -229,8 +229,12 @@
 
     // Diff and merge editors
     "diffEditor.diagonalFill": "#383838",
+    "diffEditor.insertedLineBackground": "#a1b56c18",
     "diffEditor.insertedTextBackground": "#a1b56c20",
-    "diffEditor.removedTextBackground": "#ab464220",
+    "diffEditor.removedLineBackground": "#ab464222",
+    "diffEditor.removedTextBackground": "#ab46422c",
+    "diffEditorGutter.insertedLineBackground": "#a1b56c40",
+    "diffEditorGutter.removedLineBackground": "#ab464256",
     "editorOverviewRuler.commonContentForeground": "#a16946",
     "editorOverviewRuler.currentContentForeground": "#7cafc2",
     "editorOverviewRuler.incomingContentForeground": "#a1b56c",
