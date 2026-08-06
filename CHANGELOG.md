@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 [Unreleased]
 ------------
 
+[v0.1.1] - 2026-08-06
+--------------------
+
 ### Added
 
 - Shield badges in the README linking to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=ddnomad.vscode-base16-default-themes) and [Open VSX](https://open-vsx.org/extension/ddnomad/vscode-base16-default-themes) extension listings.
@@ -16,7 +19,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 ### Fixed
 
-- Reduced the visual prominence of inline type and parameter hints in both themes.
+- Reduced the visual prominence of inline type hints, parameter hints, and CodeLens annotations in both themes.
 - Improved workspace section header contrast in both themes.
 - Improved inactive editor tab contrast in the dark theme, particularly in Cursor.
 
@@ -25,4 +28,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 Initial release.
 
+[Unreleased]: https://github.com/ddnomad/vscode-base16-default-themes/compare/v0.1.1...HEAD
+[v0.1.1]: https://github.com/ddnomad/vscode-base16-default-themes/compare/v0.1.0...v0.1.1
 [v0.1.0]: https://github.com/ddnomad/vscode-base16-default-themes/releases/tag/v0.1.0

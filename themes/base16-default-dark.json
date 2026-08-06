@@ -141,7 +141,7 @@
     "editorInlayHint.parameterBackground": "#00000000",
     "editorInlayHint.parameterForeground": "#585858",
     "editorRuler.foreground": "#383838",
-    "editorCodeLens.foreground": "#8a8a8a",
+    "editorCodeLens.foreground": "#585858",
     "editorLightBulb.foreground": "#f7ca88",
     "editorLightBulbAutoFix.foreground": "#7cafc2",
     "editorBracketMatch.background": "#7cafc226",
