@@ -17,6 +17,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - Local packaging and installation commands for test-driving unpublished builds in Cursor or VS Code, alongside the live Extension Development Host preview workflow.
 - Palette-aligned colours for [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) diagnostics and status bar indicators in both themes.
 
+### Changed
+
+- Refreshed the extension icon with a transparent background and a Base16 spectrum keyline.
+
 ### Fixed
 
 - Reduced the visual prominence of inline type hints, parameter hints, and CodeLens annotations in both themes.
