@@ -12,6 +12,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 
 - Aligned [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) current-query highlighting with both theme palettes.
 
+### Changed
+
+- Reorganised both theme definitions into matching, documented sections and aligned their supported workbench colour keys.
+
 [v0.1.1] - 2026-08-06
 --------------------
 
