@@ -8,6 +8,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 [Unreleased]
 ------------
 
+[v0.1.2] - 2026-08-07
+---------------------
+
 ### Added
 
 - Aligned [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) current-query highlighting with both theme palettes.
@@ -21,7 +24,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - Balanced dark-theme insertion and deletion backgrounds so changes remain equally prominent without obscuring muted syntax such as comments.
 
 [v0.1.1] - 2026-08-06
---------------------
+---------------------
 
 ### Added
 
@@ -40,10 +43,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 - Improved inactive editor tab contrast in the dark theme, particularly in Cursor.
 
 [v0.1.0] - 2026-08-04
---------------------
+---------------------
 
 Initial release.
 
-[Unreleased]: https://github.com/ddnomad/vscode-base16-default-themes/compare/v0.1.1...HEAD
+[Unreleased]: https://github.com/ddnomad/vscode-base16-default-themes/compare/v0.1.2...HEAD
+[v0.1.2]: https://github.com/ddnomad/vscode-base16-default-themes/compare/v0.1.1...v0.1.2
 [v0.1.1]: https://github.com/ddnomad/vscode-base16-default-themes/compare/v0.1.0...v0.1.1
 [v0.1.0]: https://github.com/ddnomad/vscode-base16-default-themes/releases/tag/v0.1.0
